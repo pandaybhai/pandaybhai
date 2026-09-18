@@ -1,6 +1,6 @@
 # Vinay Panday
 
-AI Growth Architect at CCL Products (Continental Coffee), a publicly listed FMCG company in Hyderabad. Co-founder of Meezoy Ventures. Seven years across growth, performance marketing and, for the last two, building production AI systems end to end.
+AI Growth Architect at CCL Products (Continental Coffee), Co-founder of Meezoy Ventures and Aidwar. Seven years across growth, performance marketing and, for the last two, building production AI systems end to end.
 
 I build the whole thing solo: data model, multi-tenant backend, LLM/agent layer, integrations, and the growth loop the system is supposed to move. Most of my work is inside companies, so the code is private; the architecture and the outcomes are not.
 
